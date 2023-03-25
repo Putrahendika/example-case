@@ -7,18 +7,18 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'QezzUJXHIkUcR7c',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "Putra Bot"
+global.namaowner = "Putra"
 global.packname = namabot
 global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.myweb = "https://google.com"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6283824035969']
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 100kb agar welcome nya gk lemot
 global.prefa = ['-_-']
